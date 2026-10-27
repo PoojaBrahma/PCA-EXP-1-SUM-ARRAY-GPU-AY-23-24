@@ -1,4 +1,4 @@
-<img width="472" height="175" alt="Screenshot 2026-10-27 140133" src="https://github.com/user-attachments/assets/d20836aa-05c0-4c9d-9b18-e3f36a2f7cc5" /><img width="472" height="175" alt="Screenshot 2026-10-27 140133" src="https://github.com/user-attachments/assets/7868998b-85cf-4e8d-bb58-c2352ad2daa1" /># PCA: EXP-1  SUM ARRAY GPU
+# PCA: EXP-1  SUM ARRAY GPU
 <h3>NAME : POOJA P</h3>
 <h3>REGISTER NO : 212224230195</h3>
 <h3>EX. NO : 01</h3>
